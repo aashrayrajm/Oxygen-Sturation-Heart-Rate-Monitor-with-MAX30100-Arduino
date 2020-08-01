@@ -4,4 +4,5 @@ Components Used:
   MAX30100 Module;
   0.96" I2C OLED Display;
   HC-05/HC-06 Bluetooth;
+  Buzzer;
   Breadboard.
